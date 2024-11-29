@@ -8,7 +8,7 @@
 
 ## **About Me**
 
-<picture><img align="right" src="https://github.com/CodeXPandaa/CodeXPandaa/blob/main/octocat-1732894673914.png" width = 250px></picture>
+<picture><img align="right" src="https://github.com/CodeXPandaa/CodeXPandaa/blob/main/octocat-1732894673914.png" width = 280px></picture>
 
 - 👨‍💻 A passionate self-taught developer focused on building impactful projects.  
 - 🌟 Currently working on **BackLog Buddy**,centralized platform offering branch-specific study materials for students with backlogs.  
