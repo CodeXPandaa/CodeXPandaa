@@ -55,13 +55,13 @@
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <p align="left">
-    <a href="https://linkedin.com/in/codexpandaa" target="_blank">
+    <a href="https://www.linkedin.com/in/abhishek-gautam-139230280/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Codexpandaa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/codexpandaa" target="_blank">
+    <a href="https://x.com/Its_gautam_ji" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-Codexpandaa-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="mailto:codexpandaa@example.com" target="_blank">
+    <a href="mailto:abhishekgautampanda@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-codexpandaa-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
