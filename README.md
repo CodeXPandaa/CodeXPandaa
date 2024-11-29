@@ -6,7 +6,7 @@
 
 ---
 
-## **About Me**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me**
 
 <picture><img align="right" src="https://github.com/CodeXPandaa/CodeXPandaa/blob/main/octocat-1732894673914.png" width = 280px></picture>
 
@@ -43,7 +43,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+## <img src=""https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeXPandaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
