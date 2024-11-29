@@ -8,10 +8,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img align="right" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width = 250px></picture>
 
 - 👨‍💻 A passionate self-taught developer focused on building impactful projects.  
-- 🌟 Currently working on **UniAlum**, a platform connecting students and alumni.  
+- 🌟 Currently working on **BackLog Buddy**,centralized platform offering branch-specific study materials for students with backlogs.  
 - 🌱 Always exploring new tech and trends to stay ahead in the field.  
 - 🚀 Open to opportunities in development or leadership roles.  
 - 🌐 [My Portfolio](https://codexpandaa.dev)  
