@@ -14,7 +14,7 @@
 - 🌟 Currently working on **BackLog Buddy**,centralized platform offering branch-specific study materials for students with backlogs.  
 - 🌱 Always exploring new tech and trends to stay ahead in the field.  
 - 🚀 Open to opportunities in development or leadership roles.  
-- 🌐 [My Portfolio](https://codexpandaa.dev)  
+- 🌐 [My Portfolio](https://codexpanda.netlify.app/)  
 
 ---
 
