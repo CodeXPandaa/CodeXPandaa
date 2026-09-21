@@ -148,35 +148,6 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🥈 **Road Safety Ideathon — 2nd Prize**
-
-  * Pragati Maidan, Bharat Mandapam, New Delhi — March 2025
-
-* 🥈 **Web Rush — 2nd Prize**
-
-  * College 2-hour web design & UI development competition
-
-* 🏆 **Smart India Hackathon — Top 1 Internal Qualifier**
-
-  * Team **Appreneurs**, SDIET
-
----
-
-## 📜 Certifications
-
-* 🎓 **MERN Stack Development** — Udemy
-  Hitesh Choudhary / Chai aur Code
-
-* 📘 **NPTEL**
-
-  * Training & Development
-  * Team Leadership & Effectiveness
-  * Psychology of Learning
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
