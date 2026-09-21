@@ -12,6 +12,8 @@
 
 ## 👨‍💻 About Me
 
+<picture><img align="right" src="https://github.com/CodeXPandaa/CodeXPandaa/blob/main/octocat-1732894673914.png" width = 280px></picture>
+
 * 🎓 **B.Tech Computer Science & Engineering** student
 * 💻 **Full-Stack Developer** focused on building practical web applications
 * ⚛️ Working with **React, JavaScript, Node.js, Express.js & Python**
@@ -172,15 +174,6 @@
   * Training & Development
   * Team Leadership & Effectiveness
   * Psychology of Learning
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeXPandaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXPandaa&layout=compact&theme=tokyonight&hide_border=true" width="375" />
-</p>
 
 ---
 
