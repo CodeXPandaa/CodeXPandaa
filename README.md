@@ -16,10 +16,10 @@
 
 * 🎓 **B.Tech Computer Science & Engineering** student
 * 💻 **Full-Stack Developer** focused on building practical web applications
-* ⚛️ Working with **React, JavaScript, Node.js, Express.js & Python**
-* 🚀 Exploring **GSAP, Three.js & Spline** for interactive and 3D web experiences
-* 🔌 Experienced with **REST APIs, authentication, RBAC & real-time features**
-* 🗄️ Working with **MongoDB, MySQL & PostgreSQL**
+* ⚛️ Working with **React, JavaScript, TypeScript, Node.js, Express.js & Python**
+* 🚀 Exploring **GSAP & Spline** for interactive and 3D web experiences
+* 🔌 Experienced with **REST APIs, authentication & RBAC**
+* 🗄️ Working with **MongoDB**
 * 🧠 Exploring Python development with **NumPy, Pandas, Matplotlib & OpenCV**
 * 🏗️ Currently building projects that combine functionality with modern UI/UX
 * 🌐 Check out my portfolio: **[codexpanda.netlify.app](https://codexpanda.netlify.app/)**
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -51,7 +52,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spline-%23FF5A60.svg?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -60,17 +60,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🐍 Python & Computer Vision
@@ -95,56 +91,58 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 ScholarPilot — AI Scholarship Discovery Platform
+
+> An AI-powered scholarship discovery and matching platform for Indian students. Built as a hackathon team project, where I designed and developed the frontend.
+
+**Tech:** React 19 • TypeScript • Vite • Tailwind CSS • Motion • REST APIs
+
+* 🧭 Multi-step student profile builder & authentication flows
+* 🎯 Personalized, ranked scholarship dashboard
+* 📡 Live crawl-progress bar that polls job status
+* 📋 Scheme detail views with eligibility criteria & required-document checklists
+* 🔌 Integrated with a Java Spring Boot REST gateway
+
+---
+
+### 🌾 Straw2Cash — Crop Residue Marketplace
+
+> A digital marketplace that turns paddy straw into farmer income and reduces stubble burning. Built for the Bharat Builds Hackathon, where I designed and developed the frontend.
+
+**Tech:** React 19 • TypeScript • Vite • Tailwind CSS • Axios • Motion • GSAP
+
+* 👥 Role-based dashboards for farmers, industrial buyers, baler operators & pollution authorities
+* 🔗 Unified Axios clients with JWT handling across three backends (Java, Go, Python)
+* 🛰️ Interactive satellite fire-risk map
+* 🗣️ Multilingual (Hindi, Punjabi, English) voice & text assistant UI
+
+---
+
+### 👁️ Third Eye — Object Detection & Voice Assistance for the Blind
+
+> A computer vision project that detects objects in real time and announces them aloud to assist visually impaired users.
+
+**Tech:** Python • YOLOv8 • OpenCV • NumPy • pyttsx3
+
+* 📷 Real-time object detection with YOLOv8 & OpenCV
+* 🧠 Pretrained COCO weights covering 80 object classes
+* 🎨 Colour-coded bounding boxes & class labels
+* 🔊 Text-to-speech feedback for detected objects
+
+---
+
 ### 🔷 CodeXHub — Project Management Web App
 
 > A project management platform connecting students and teachers for semester project tracking.
 
-**Tech:** React • Node.js • Express.js • MongoDB 
+**Tech:** React • Vite • Node.js • Express.js • MongoDB • Tailwind CSS • Recharts • JWT • GSAP • Spline
 
 * 👨‍🏫 Role-based **Teacher / Student** authentication
-* ✅ Project approval workflow
-* 📄 Synopsis & WPR uploads
+* ✅ Project request & approval workflow
+* 📄 Synopsis uploads & weekly progress reports (WPR) with auto progress calculation
 * 👥 Group project management
-* 📊 Progress tracking & analytics
+* 📊 Progress tracking & analytics dashboard
 * 🎨 Responsive interactive React UI
-
----
-
-### 🌐 UniAlum — Alumni Networking Platform
-
-> A platform designed to connect university alumni and freshers.
-
-**Tech:** React • Python • FastAPI • Socket.IO • MongoDB • Razorpay
-
-* 👤 Alumni & fresher profiles
-* 💬 Networking and communication
-* 💼 Jobs & career opportunities
-* 🎓 Mentorship and community support
-* 💰 Donation/payment integration
-
----
-
-### 📚 BacklogBuddy — Academic Support Platform
-
-> A student-focused platform for accessing branch-specific academic resources.
-
-**Tech:** HTML • CSS • JavaScript
-
-* 📖 Notes organized by branch, subject & chapter
-* 🔎 Simple resource navigation
-* 📱 Responsive student-friendly interface
-
----
-
-### 👁️ Object Detection for Blind Person
-
-> A computer vision prototype that identifies objects through a live camera and provides spoken feedback.
-
-**Tech:** Python • OpenCV • YOLO • NumPy • pyttsx3
-
-* 📷 Real-time camera-based detection
-* 🧠 Computer vision processing
-* 🔊 Text-to-speech object feedback
 
 ---
 
@@ -165,7 +163,7 @@
   <a href="https://www.linkedin.com/in/abhishek-gautam-139230280/">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Gautam-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:[abhishekgautampanda@gmail.com](mailto:abhishekgautampanda@gmail.com)">
+  <a href="mailto:abhishekgautampanda@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -181,5 +179,5 @@
 </p>
 
 <p align="center">
-  <sub>Last Updated: September 2026</sub>
+  <sub>Last Updated: October 2026</sub>
 </p>
